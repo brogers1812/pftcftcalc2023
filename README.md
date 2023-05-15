@@ -1,4 +1,4 @@
-# pftcftcalc2023
+# PFT / CFT Calculator Worksheet (2023)
 
 Some of you may already be familiar with the Excel version of the PFT/CFT NAVMC that has been floating around S3 shops for over a decade. The original creator retired, and with the new testing requirements, the Excel sheet has become obsolete. Recently, I completely revamped the Excel workbook.
 
