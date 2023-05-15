@@ -8,7 +8,7 @@ Some of you may already be familiar with the Excel version of the PFT/CFT NAVMC 
 
 I'm not sure if anybody still uses the Excel version, but it's available for your use. This is the Beta version, so if you find any issues or discrepancies, please let me know. I'll continue to refine the product when time becomes available.
 
-For the technical Marines:
+For the technical Marines:<br>
 I coded in VBA to minimize the redundancy and make it a lot easier for changes in the future.
 
 <b>Update (5/5/2023):</b> Corrected formatting issues. (ver 1.1)
